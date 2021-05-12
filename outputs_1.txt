@@ -1,0 +1,9 @@
+Departure province:
+Arrival province:
+Enter travel type:
+
+I am calculating the distance between IZMIR and ANKARA ...
+
+Distance: 591.91 km
+Approximate travel time with CAR: 6 hours 34 minutes
+Recommended places close to IZMIR:AYDIN,BALIKESIR,MANISA

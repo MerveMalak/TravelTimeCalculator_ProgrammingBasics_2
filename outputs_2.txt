@@ -1,0 +1,22 @@
+Departure province:
+Province not found!
+Possible province:IZMIR
+Departure province:
+Province not found!
+Departure province:
+Arrival province:
+Province not found!
+Possible provinces:ANKARA,ANTALYA
+Arrival province:
+Province not found!
+Possible provinces:YALOVA,YOZGAT
+Arrival province:
+Enter travel type:
+Enter travel type:
+Enter travel type:
+
+I am calculating the distance between IZMIR and ANTALYA ...
+
+Distance: 389.23 km
+Approximate travel time with CAR: 4 hours 19 minutes
+Recommended places close to IZMIR:AYDIN,BALIKESIR,MANISA
